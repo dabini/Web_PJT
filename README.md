@@ -6,7 +6,6 @@
 
 ## :hammer_and_wrench: 기술 스택
 
-![skillStack](uploads/48130d38138290f1f7cdddd5c62f7cbc/skillStack.png)
 
 ## :card_file_box: 프로젝트 구조
 
