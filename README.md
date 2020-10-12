@@ -4,7 +4,7 @@
 
 ## :hammer_and_wrench: 기술 스택
 
-![skillstack](D:\Web_PJT\skillStackpic.png)
+![image-20201012220820030](image-20201012220820030.png)
 
 
 
