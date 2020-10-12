@@ -1,12 +1,12 @@
-# PJT_-
-
 # :clapper: 편집 :house:
 
 **편**하게 **집**에서 의뢰하자! 라는 취지에서 만든 프로젝트, 편집입니다!
 
 ## :hammer_and_wrench: 기술 스택
 
-![skillStack.png](D:\Web_PJT\skillStack.png)
+![skillstack](D:\Web_PJT\skillStack)
+
+
 
 
 ## :card_file_box: 프로젝트 구조
